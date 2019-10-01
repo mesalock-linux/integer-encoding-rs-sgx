@@ -1,3 +1,4 @@
+use std::prelude::v1::*;
 use std::mem::transmute;
 
 /// FixedInt provides encoding/decoding to and from fixed int representations.
